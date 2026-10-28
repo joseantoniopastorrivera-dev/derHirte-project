@@ -8,9 +8,9 @@
 
 Este espacio actúa como el *hub* central de recursos, albergando tanto el desarrollo de la interfaz web como los materiales asociados al proyecto:
 
-* **`web/`**: Código fuente de la página web oficial (HTML5, CSS3 Grid/Flexbox y JavaScript nativo con cuentas atrás dinámicas y reproductores interactivos).
-* **`assets/`**: Recursos gráficos, logotipos, carátulas de los episodios de *WeekCast* y elementos visuales de marca.
-* **`docs/`**: Documentación complementaria, notas de diseño o planificación de contenidos.
+* **`web/`**: Código fuente de la página web oficial (HTML5, CSS3 Grid/Flexbox y JavaScript nativo con cuentas atrás dinámicas y reproductores interactivos), junto con las carátulas e imágenes que usa.
+* **`assets/`** *(próximamente)*: Recursos gráficos, logotipos, carátulas de los episodios de *WeekCast* y elementos visuales de marca.
+* **`docs/`** *(próximamente)*: Documentación complementaria, notas de diseño o planificación de contenidos.
 
 ---
 
